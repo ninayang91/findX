@@ -1,5 +1,6 @@
 # findX
 findX in N*N Matrix(Sorted)
+
 //The input is an N*N matrix of numbers that is already in memory 
 
 //each individual row is increasing from left to right
